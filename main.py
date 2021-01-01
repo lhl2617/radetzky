@@ -9,11 +9,11 @@ from clap import get_random_clap, ClapParams
 Parameters
 """
 # file in ./data
-FILE = "rad2021.mp3"
+FILE = "YOUR_FILE.mp3"
 # mode
 MODE = "claps"  # 'beats' | 'claps'
 # whether to overlay or produce a new track with only claps
-OVERLAY = False
+OVERLAY = True
 # claps parameters
 CLAPS_PITCH_SHIFT_MIN_OCTAVE = -0.5  # random pitch shift lower bound in octaves
 CLAPS_PITCH_SHIFT_MAX_OCTAVE = 0.5  # random pitch shift upper bound in octaves
