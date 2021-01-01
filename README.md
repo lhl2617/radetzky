@@ -1,14 +1,18 @@
 # Radetzky
 
-Add randomised claps to detected beats on any audio file!
+Add randomised and volume-sensitive claps to detected beats on any audio file!
+
+Demo here:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dTrGnQCliWg/0.jpg)](https://www.youtube.com/watch?v=dTrGnQCliWg)
 
 ## Motivation
 
 2021's [Vienna New Year's Concert](https://en.wikipedia.org/wiki/Vienna_New_Year%27s_Concert) was the very first ran without an audience.
 
-The [Radetzky March](https://www.youtube.com/watch?v=2ORHVroiWHk) is a staple in the concert, usually the last encore piece played. The audience usually claps along to the music.
+The [Radetzky March](https://www.youtube.com/watch?v=2ORHVroiWHk) is a staple every year--usually it is the last encore piece played, with the audience clapping along.
 
-Riccardo Muti, the conductor of the 2021 edition, mentioned that "This is the first time the audience can listen to the March without the clapping". I thought it was weird, and hence this project is born.
+Riccardo Muti, the conductor of the 2021 edition, mentioned that "This is the first time the audience can listen to the March without the clapping". I thought it was weird, and hence this project was born.
 
 ## Try it out!
 
