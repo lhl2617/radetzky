@@ -4,7 +4,7 @@ Add randomised and volume-sensitive claps to detected beats on any audio file!
 
 Demo here:
 
-[![Video](https://img.youtube.com/vi/dTrGnQCliWg/0.jpg)](https://drive.google.com/file/d/11vPtuAwt1mZNi3SPIIRCfgvGb2bEMfWK/view?usp=sharing)
+[![Video](https://img.youtube.com/vi/dTrGnQCliWg/0.jpg)](https://www.youtube.com/watch?v=dTrGnQCliWg)
 
 ## Motivation
 
